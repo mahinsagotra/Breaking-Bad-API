@@ -1,3 +1,5 @@
+## The Breaking Bad API is not working, due to which this app is unable to show any characters data. (Sorry for the inconvenience) 🙏🙏
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
